@@ -9,4 +9,4 @@ Main source is here [main source](https://github.com/Jisan09/catuserbot) fork an
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - [@kidszonacompa](https://t.me/DeletedUser420)
